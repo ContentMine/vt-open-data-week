@@ -3,7 +3,7 @@ Virginia Tech - ContentMine visit at Open Data Week
 
 ContentMine is visiting [Virginia Tech](http://vt.edu/) during their Open Data week for a 3 days stay. We will present our work in different formats and do a full-day workshop at the end.
 
-- Date: 11th - 13th March 2017
+- Date: 11th - 13th April 2017
 - Location: Virginia Tech @ Blacksburg, Virginia, USA
 - Facilitator: 
     - [Stefan Kasberger](http://stefankasberger.at/) ([@stefankasberger](https://twitter.com/stefankasberger))
@@ -15,7 +15,7 @@ This work is licensed, unless otherwise stated, under a [Creative Commons Attrib
 
 <img src="/assets/images/logo-ccby.png" alt="ContentMine" width="120"/>
 
-<img src="/assets/images/logo-contentmine.png" alt="ContentMine" width="300"/><img src="/assets/images/logo-vt.png" alt="ContentMine" width="300"/>
+<img src="/assets/images/logo-contentmine.png" alt="ContentMine" width="300"/><img src="/assets/images/logo-vt.png" alt="ContentMine" width="300" style="margin-left: 30px" />
 
 ## TIMETABLE
 
@@ -89,9 +89,9 @@ The full-day workshop will be the final event, where the shown practices are fin
 **Requirements**
 
 To be able to participate during the workshop, you need a running installation of our ContentMine software. To reduce the risks of bandwith problems during download or installation errors, we recommend to install the software in advance and test it, if it is running.
-- Install the needed ContentMine software. You have two options: 
+- Install the needed ContentMine software. You have two options (we recommend the virtual machine image): 
+	- install the [Virtual Machine Image 2017/04](https://drive.google.com/open?id=0B7pJKedx9b97emhKLUNiVjNLWEk), where all software is included. You can find more information how to setup the virtual machine [here](https://github.com/ContentMine/workshop-resources/tree/master/software-tutorials/vms).
 	- [install the software locally](https://github.com/ContentMine/FutureTDM#option-1-install-software-locally-recommended)
-	- install the Virtual Machine image, where all software is included. We will prepare a new image especially for the Virginia Tech workshop in the next days, so please stay tuned.
 - bring your laptop with power supply
 
 **Preparation**
